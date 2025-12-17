@@ -1,0 +1,2 @@
+# Additional-Churn-Prediction-Prototypes-in-JavaScript.-k-Nearest-Neighbors-k-NN-Simulation
+Additional Churn Prediction Prototypes in JavaScript (in progress... k-Nearest Neighbors (k-NN) Simulation Method: k-Nearest Neighbors (k-NN). Focus: Non-parametric, distance-based classification.  The risk is determined by how 'close' a student's profile is to historical dropout profiles in a multi-dimensional feature space.
